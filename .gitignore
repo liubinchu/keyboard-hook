@@ -29,6 +29,8 @@
 *.la
 *.a
 *.lib
+*.opendb
+*.db
 
 # Executables
 *.out
